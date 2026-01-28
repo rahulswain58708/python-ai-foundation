@@ -5,6 +5,7 @@ This repository contains my complete practice of Python Dictionary concepts, sol
 The goal of this practice was not to memorize syntax, but to build strong logic and real problem-solving skills, which are essential for becoming an AI Engineer.
 
 🚀 What I Practiced in This Repository
+
 ✅ Dictionary Basics
 
 Creating dictionaries
@@ -80,6 +81,7 @@ Build confidence in data handling
 Prepare for real-world applications
 
 Strengthen the foundation required for AI & ML engineering
+
 🔜 What’s Next
 
 Dictionary Mini Project (Contact Manager) ✅
