@@ -1,11 +1,11 @@
 📞 Contact Manager App (Python CLI)
 
 A simple Contact Manager application built using Python Dictionary.
-This project works completely in the terminal (CLI) and helps manage contacts efficiently.
+This project runs completely in the terminal (CLI) and helps users manage contacts efficiently.
 
 🚀 Project Objective
 
-To build a Python application that allows users to:
+Build a Python application that allows users to:
 
 Add contacts
 
@@ -17,7 +17,7 @@ Update contacts
 
 Delete contacts
 
-The project is created using pure Python logic with no external libraries.
+The project is developed using pure Python logic with no external libraries.
 
 🧱 Data Structure Used
 contacts = {
@@ -30,10 +30,9 @@ Key → Contact Name (unique)
 
 Value → Phone Number
 
-This design demonstrates strong understanding of dictionary (key–value) data structure.
+This design demonstrates strong understanding of the dictionary (key–value) data structure.
 
 📋 Features
-
 1️⃣ Create Contact
 
 Add a new contact with name and phone number
@@ -58,7 +57,7 @@ Displays phone number if found
 
 5️⃣ Delete Contact
 
-Delete a contact safely after checking existence
+Delete a contact after checking existence
 
 6️⃣ Exit
 
@@ -70,11 +69,11 @@ Python Dictionary
 
 Key existence checking
 
-Looping (for, while)
+Loops (for, while)
 
 Conditional statements
 
-CRUD operations (Create, Read, Update, Delete)
+CRUD Operations (Create, Read, Update, Delete)
 
 User input handling
 
@@ -96,7 +95,7 @@ python main.py
 
 🎯 Learning Outcome
 
-This project helped me:
+This project helped me to:
 
 Gain confidence in Python dictionaries
 
@@ -106,7 +105,7 @@ Improve logic building skills
 
 Prepare for advanced topics like sets, functions, and file handling
 
-🔜 Future Improvements (Optional)
+🔜 Future Improvements
 
 Case-insensitive search
 
@@ -116,5 +115,7 @@ Save contacts to file
 
 Load contacts on startup
 
-Status: Project Completed ✅
+📌 Status
+
+Project Completed ✅
 Level: Beginner → Intermediate
