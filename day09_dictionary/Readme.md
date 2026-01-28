@@ -80,13 +80,6 @@ Build confidence in data handling
 Prepare for real-world applications
 
 Strengthen the foundation required for AI & ML engineering
-
-📂 Folder Structure
-dictionary-practice/
-│
-├── practice.py
-└── README.md
-
 🔜 What’s Next
 
 Dictionary Mini Project (Contact Manager) ✅
