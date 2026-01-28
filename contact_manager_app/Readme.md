@@ -1,121 +1,128 @@
-📞 Contact Manager App (Python CLI)
+# 📞 Contact Manager App (Python CLI)
 
-A simple Contact Manager application built using Python Dictionary.
+A simple **Contact Manager application** built using Python Dictionary.
 This project runs completely in the terminal (CLI) and helps users manage contacts efficiently.
 
-🚀 Project Objective
+---
+
+## 🚀 Project Objective
 
 Build a Python application that allows users to:
 
-Add contacts
+* Add contacts
+* View all contacts
+* Search contacts
+* Update contacts
+* Delete contacts
 
-View all contacts
+The project is developed using **pure Python logic** with no external libraries.
 
-Search contacts
+---
 
-Update contacts
+## 🧱 Data Structure Used
 
-Delete contacts
-
-The project is developed using pure Python logic with no external libraries.
-
-🧱 Data Structure Used
+```python
 contacts = {
     "Rahul": 9876543210,
     "Amit": 9123456780
 }
+```
 
+* **Key** → Contact Name (unique)
+* **Value** → Phone Number
 
-Key → Contact Name (unique)
+This design demonstrates strong understanding of the **dictionary (key–value) data structure**.
 
-Value → Phone Number
+---
 
-This design demonstrates strong understanding of the dictionary (key–value) data structure.
+## 📋 Features
 
-📋 Features
-1️⃣ Create Contact
+### 1️⃣ Create Contact
 
-Add a new contact with name and phone number
+* Add a new contact with name and phone number
+* Prevents duplicate contact names
 
-Prevents duplicate contact names
+### 2️⃣ View All Contacts
 
-2️⃣ View All Contacts
+* Displays all saved contacts
+* Handles empty contact list safely
 
-Displays all saved contacts
+### 3️⃣ Update Contact
 
-Handles empty contact list safely
+* Update phone number of an existing contact
 
-3️⃣ Update Contact
+### 4️⃣ Search Contact
 
-Update phone number of an existing contact
+* Search a contact by name
+* Displays phone number if found
 
-4️⃣ Search Contact
+### 5️⃣ Delete Contact
 
-Search a contact by name
+* Delete a contact after checking existence
 
-Displays phone number if found
+### 6️⃣ Exit
 
-5️⃣ Delete Contact
+* Close the application gracefully
 
-Delete a contact after checking existence
+---
 
-6️⃣ Exit
+## 🧠 Concepts Used
 
-Close the application gracefully
+* Python Dictionary
+* Key existence checking
+* Loops (`for`, `while`)
+* Conditional statements
+* CRUD Operations (Create, Read, Update, Delete)
+* User input handling
 
-🧠 Concepts Used
+---
 
-Python Dictionary
+## 📂 Project Structure
 
-Key existence checking
-
-Loops (for, while)
-
-Conditional statements
-
-CRUD Operations (Create, Read, Update, Delete)
-
-User input handling
-
-📂 Project Structure
+```
 ContactManager/
 │
 ├── main.py
 └── README.md
+```
 
-▶️ How to Run
+---
 
-Clone this repository
+## ▶️ How to Run
 
-Open terminal in the project folder
+1. Clone this repository
+2. Open terminal in the project folder
+3. Run the program:
 
-Run the program:
-
+```bash
 python main.py
+```
 
-🎯 Learning Outcome
+---
+
+## 🎯 Learning Outcome
 
 This project helped me to:
 
-Gain confidence in Python dictionaries
+* Gain confidence in Python dictionaries
+* Understand real-world CRUD operations
+* Improve logic building skills
+* Prepare for advanced topics like **sets, functions, and file handling**
 
-Understand real-world CRUD operations
+---
 
-Improve logic building skills
+## 🔜 Future Improvements
 
-Prepare for advanced topics like sets, functions, and file handling
+* Case-insensitive search
+* Prevent duplicate phone numbers
+* Save contacts to file
+* Load contacts on startup
 
-🔜 Future Improvements
+---
 
-Case-insensitive search
+## 📌 Status
 
-Prevent duplicate phone numbers
+**Project Completed ✅**
+**Level:** Beginner → Intermediate
 
-Save contacts to file
-
-Load contacts on startup
-
-📌 Status
-
-Project Completed ✅
-Level: Beginner → Intermediate
+---
