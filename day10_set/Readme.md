@@ -1,89 +1,95 @@
-🧮 Python Set Practice (Basics to Advanced)
+#📘 Python Set Practice
 
-A structured collection of Python Set practice programs designed to strengthen understanding of sets, improve logic building, and apply concepts in real-world scenarios.
-This repository focuses on pure Python and is ideal for beginners to intermediate learners.
+This repository contains my **Python Set practice questions**, solved step by step from **basic to advanced level** to build strong understanding and logic.
 
-🚀 Project Objective
+The focus of this practice is **concept clarity, problem solving, and real-world usage** of sets.
 
-Build strong command over Python Sets by practicing:
+---
 
-Creating and managing sets
+## Topics Covered
 
-Performing set operations
+### Set Basics
 
-Solving logical problems
+* Creating sets
+* Removing duplicate values
+* Empty set creation
+* Membership checking using `in`
+* Looping through sets
 
-Applying sets in real-world use cases
+---
 
-All programs are written with simple, clean, and beginner-friendly code.
+### Set Operations
 
-📚 Topics Covered
+* Union
+* Intersection
+* Difference
+* Symmetric Difference
+* Subset and Disjoint checks
 
-Set creation & initialization
+---
 
-Removing duplicate values
+### Logic & Practice
 
-Empty set creation
+* Counting elements without using `len()`
+* Finding minimum and maximum without `min()` / `max()`
+* Extracting even numbers from a set
+* Detecting duplicate values using sets
+* Removing duplicate characters from a string
+* Counting unique words in a sentence
 
-Membership checking (in)
+---
 
-Looping through sets
+### Real-World Use Cases
 
-Union
+* Attendance tracking (Day-1 & Day-2)
+* Finding students attending both classes
+* Finding students attending only one class
+* Comparing two lists using set logic
 
-Intersection
+---
 
-Difference
+## Learning Rules Followed
 
-Symmetric Difference
+* No shortcut functions unless required
+* No list/set comprehensions
+* Used loops and conditional logic
+* Focused on understanding, not memorizing
 
-Adding elements
+---
 
-Removing & discarding elements
+## Folder Structure
 
-Logical & real-world problems
+```
+Set/
+│
+├── 01_basic.py
+├── 02_loop_&_logic.py
+├── 03_setOperation.py
+├── 04_realworld_practice.py
+├── 05_advance_set_practice.py
+└── README.md
+```
 
-🗂 Project Structure
-01_basic.py                 -> Set basics
-02_loop_&_logic.py          -> Looping & logic based problems
-03_setOperation.py          -> Set operations
-04_realworld_practice.py   -> Real-world examples
-05_advance_set_practice.py -> Advanced practice problems
+---
 
-▶ How to Run
+## Purpose
 
-Clone repository
+This practice helped me:
 
-git clone https://github.com/rahulswain58708/python-set-practice.git
+* Understand set behavior deeply
+* Handle duplicates efficiently
+* Apply set logic to real-world problems
+* Build strong foundations for AI & data processing
 
+---
 
-Open project folder
+## Next Steps
 
-cd python-set-practice
+* Dictionary mini project (Completed)
+* Functions chapter
+* File handling
+* Larger Python projects
 
+---
 
-Run any file
-
-python filename.py
-
-
-Example:
-
-python 01_basic.py
-
-🎯 Learning Outcome
-
-After completing this repository, you will be able to:
-
-Use Python sets confidently
-
-Apply set operations correctly
-
-Solve logical problems using sets
-
-Build a strong foundation for Data Structures
-
-🧑‍💻 Author
-
-Rahul Swain
-Python Learner | AI Engineering Student
+**Status:** Set chapter completed ✅
