@@ -1,19 +1,25 @@
-🔹 Python Set Practice – From Basics to Advanced
+🧮 Python Set Practice (Basics to Advanced)
 
-This repository contains my Python Set practice programs, written step-by-step from basic to advanced level to build strong understanding of sets, logic building, and real-world usage.
+A structured collection of Python Set practice programs designed to strengthen understanding of sets, improve logic building, and apply concepts in real-world scenarios.
+This repository focuses on pure Python and is ideal for beginners to intermediate learners.
 
-The goal of this repository is to improve:
+🚀 Project Objective
 
-Concept clarity
+Build strong command over Python Sets by practicing:
 
-Problem-solving skills
+Creating and managing sets
 
-Logical thinking using Python Sets
+Performing set operations
 
-📌 Topics Covered
-✅ Set Basics
+Solving logical problems
 
-Creating sets
+Applying sets in real-world use cases
+
+All programs are written with simple, clean, and beginner-friendly code.
+
+📚 Topics Covered
+
+Set creation & initialization
 
 Removing duplicate values
 
@@ -23,8 +29,6 @@ Membership checking (in)
 
 Looping through sets
 
-✅ Set Operations
-
 Union
 
 Intersection
@@ -33,45 +37,27 @@ Difference
 
 Symmetric Difference
 
-✅ Modification Methods
+Adding elements
 
-add()
+Removing & discarding elements
 
-remove()
+Logical & real-world problems
 
-discard()
-
-pop()
-
-clear()
-
-✅ Logical & Real-World Practice
-
-Checking duplicates
-
-Student attendance system
-
-Common elements between groups
-
-Unique value extraction
-
-Practical scenarios using sets
-
-📂 File Structure
-01_basic.py               -> Basic set creation & operations  
-02_loop_&_logic.py        -> Looping & logic-based questions  
-03_setOperation.py       -> Union, Intersection, Difference, etc.  
-04_realworld_practice.py -> Real-world based problems  
-05_advance_set_practice.py -> Advanced logic & scenarios  
+🗂 Project Structure
+01_basic.py                 -> Set basics
+02_loop_&_logic.py          -> Looping & logic based problems
+03_setOperation.py          -> Set operations
+04_realworld_practice.py   -> Real-world examples
+05_advance_set_practice.py -> Advanced practice problems
 
 ▶ How to Run
 
-Clone this repository
+Clone repository
 
 git clone https://github.com/rahulswain58708/python-set-practice.git
 
 
-Open folder
+Open project folder
 
 cd python-set-practice
 
@@ -85,25 +71,19 @@ Example:
 
 python 01_basic.py
 
-🎯 Who This Repository Is For
+🎯 Learning Outcome
 
-Python Beginners
+After completing this repository, you will be able to:
 
-Students learning Data Structures
+Use Python sets confidently
 
-Anyone wanting strong command over Python Sets
-
-🚀 Learning Outcome
-
-After completing this practice, you will be able to:
-
-Use sets confidently
+Apply set operations correctly
 
 Solve logical problems using sets
 
-Apply sets in real-world scenarios
+Build a strong foundation for Data Structures
 
-👨‍💻 Author
+🧑‍💻 Author
 
 Rahul Swain
 Python Learner | AI Engineering Student
