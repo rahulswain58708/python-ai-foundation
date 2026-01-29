@@ -1,4 +1,4 @@
-###**📘 Python Set Practice**
+**📘 Python Set Practice**
 
 This repository contains my **Python Set practice questions**, solved step by step from **basic to advanced level** to build strong understanding and logic.
 
