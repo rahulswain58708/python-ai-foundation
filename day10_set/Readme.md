@@ -1,8 +1,8 @@
 🧠 Python Set Practice – From Basics to Advanced
 
-This repository contains a structured collection of Python Set practice problems, solved step-by-step from basic to advanced level to build strong conceptual understanding and logical thinking.
+A structured collection of Python Set practice problems, solved step-by-step from basic to advanced level to build strong conceptual understanding and logical thinking.
 
-The main focus of this practice is:
+This repository focuses on:
 
 Concept clarity
 
@@ -10,7 +10,7 @@ Logical problem solving
 
 Real-world usage of Python sets
 
-This repository is part of my AI Engineering learning journey and foundation-building in Python.
+This practice is part of my AI Engineering learning journey and foundation-building in Python.
 
 📌 Topics Covered
 🔹 Set Basics
