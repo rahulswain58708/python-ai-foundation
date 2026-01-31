@@ -21,6 +21,11 @@ This project demonstrates how to use functions, conditional statements, and user
 Simple_Calculator/
 │
 └── main.py
+
+
+
+
+
 -----------Welcome to simple calculator-----------
 1.Add
 2.Substract
