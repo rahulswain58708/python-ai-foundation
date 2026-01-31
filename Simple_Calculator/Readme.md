@@ -27,12 +27,19 @@ Simple_Calculator/
 
 
 -----------Welcome to simple calculator-----------
+
 1.Add
+
 2.Substract
+
 3.Multiply
+
 4.Divide
+
 5.Modulus
+
 6.Power
+
 7.Exit
 
 Enter one option (1-7):
